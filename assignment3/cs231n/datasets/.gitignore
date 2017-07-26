@@ -1,0 +1,4 @@
+squeezenet.*
+MNIST_data/*
+imagenet_val_25.npz
+coco*
